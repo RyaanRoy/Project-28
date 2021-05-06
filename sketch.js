@@ -10,7 +10,7 @@ var groundobj, boy, boyImg, stoneobj, treeobj, mango1, mango2, mango3, mango4,la
 
 function preload()
 {
-	boyImg=loadImage("Plucking mangoes/boy.png");
+	boyImg=loadImage("boy.png");
   
 }
 
