@@ -39,9 +39,9 @@ function draw() {
   background(0);
  
   Engine.update(engine);
-  ground.display();
-  stone.display();
-  tree.display();
+  groundobj.display();
+  stoneobj.display();
+  treeobj.display();
   mango1.display();
   mango2.display();
   mango3.display();
